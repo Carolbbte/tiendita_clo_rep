@@ -1,0 +1,13 @@
+:root {
+  --bg: #f7f3ef;
+  --text: #2b2b2b;
+  --primary: #e8b4b8;
+  --secondary: #a3b18a;
+  --font-title: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+}
+body { background: var(--bg); color: var(--text); font-family: var(--font-body); }
+section { min-height: 100vh; display:flex; align-items:center; justify-content:center; }
+.container { max-width:1100px; margin:auto; }
+.card { border:1px solid #ddd; padding:20px; border-radius:16px; }
+.progress-bar { position:fixed; top:0; left:0; height:4px; background:var(--primary); width:0%; }

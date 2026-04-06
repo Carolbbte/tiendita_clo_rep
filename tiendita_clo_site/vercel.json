@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/brands/tiendita-clo", "destination": "/brands/tiendita-clo/index.html" }
+  ]
+}

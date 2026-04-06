@@ -1,0 +1,4 @@
+{
+  "kpis": { "clientes": 500, "eventos": 200, "personalizados": 100 },
+  "crecimiento": [10,30,80,150,300]
+}
